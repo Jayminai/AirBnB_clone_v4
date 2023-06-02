@@ -158,6 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 George Godstime - [Github](https://github.com/jayminai) / [Twitter](https://twitter.com/jayminai)  
+Aralu Kenechukwu - [Github](https://github.com/aralukene) / [Twitter](https://twitter.com/aralukene)
 
 
 Second part of Airbnb: Joann Vuong
